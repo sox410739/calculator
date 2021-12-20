@@ -4,7 +4,7 @@
 # **environment**
 clone 此專案後直接執行 .jar 檔即可
 ```
-java -jar calculator
+java -jar calculator.
 ```
 或是可以照你的喜好修改 Calculator.java，然後運行。
 ```
